@@ -1,5 +1,11 @@
-# HALO-HALO Hello World
+# Hello World
 
-HALO DUNIA BANDUNG
+## h2
 
-**Kembali ke Hello World**
+*italic*
+
+**bold**
+
+```javascript
+var jumlah = 100;
+```
