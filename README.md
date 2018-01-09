@@ -1,6 +1,4 @@
-# HALO DUNIA
-
-# h1
+# Hello World
 
 ## h2
 
@@ -8,9 +6,6 @@
 
 **bold**
 
-
-
 ```javascript
 var jumlah = 100;
-
 ```
